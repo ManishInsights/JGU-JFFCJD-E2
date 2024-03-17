@@ -1,8 +1,8 @@
-class Factorial
+class Factorial2
 {
 	public static void main(String[] args)
 	{
-		int n = 8;
+		int n = 7;
 		System.out.println("Factorial of " +  n + " is " + fact(n,1));
 		
 	}
