@@ -8,6 +8,6 @@ class Prog1
 
 	public static int quot(int a, int b)
 	{
-		return a/b;
+		return a / b;
 	}
 }
